@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🚀 I spend at least two hours a day focused on learning Swift and improving my iOS development skills. I'm excited by the idea of working in a collaborative environment where I can learn from others and contribute in a meaningful way. <br>- 🔭 I’m working as Project Manager<br>- 📚 I'm currently learning Swift<br>- ⚡ I develop indie applications in my free time</p>
+<p align="left">- 🚀 I spend at least two hours a day focused on learning Swift and improving my iOS development skills. I'm excited by the idea of working in a collaborative environment where I can learn from others and contribute in a meaningful way. <br> - 🔭 I’m Industrial & Software Engineer <br> - 🔭 I’m working as Project Manager<br>- 📚 I'm currently learning Swift<br>- ⚡ I develop indie applications in my free time</p>
 
 ###
 
