@@ -69,9 +69,11 @@
 <h3 align="left">📱   My Apps :</h3>
 
 <h4 align=left> Focusify - Pomodoro & Task Management App </h4>
+
 ![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/d06ea678740aacda7a471dd24c78bf583758e0ad/focusify.png)
 
 <h4 align=left> Trackizer - Membership Tracking App </h4>
+
 ![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/5fa6189ea552f226001eecd4ee3947be2f384ca1/trackizer1.png)
 
 
