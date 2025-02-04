@@ -76,6 +76,16 @@
 
 ![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/5fa6189ea552f226001eecd4ee3947be2f384ca1/trackizer1.png)
 
+<h4 align=left> Africa App </h4>
+
+![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/21eb4c1d923d434fce7d1f8ef2914da82ecfed36/africa.png)
+
+<h4 align=left> Map App </h4>
+
+![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/21eb4c1d923d434fce7d1f8ef2914da82ecfed36/mapapp.png)
+
+
+
 
 
 
