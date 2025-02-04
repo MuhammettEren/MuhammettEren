@@ -66,7 +66,7 @@
 ###
 ###
 
-<h3 align="left">🔥   My Apps :</h3>
-![image alt](https://github.com/MuhammettEren/MuhammettEren/blob/main/focusify.png?raw=true)
+<h3 align="left">📱   My Apps :</h3>
+![Image Alt](https://github.com/MuhammettEren/MuhammettEren/blob/d06ea678740aacda7a471dd24c78bf583758e0ad/focusify.png)
 
 ###
