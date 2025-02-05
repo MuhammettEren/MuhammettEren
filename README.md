@@ -64,9 +64,9 @@
 </div>
 
 
-!-- <p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetteren&theme=dark" alt="muhammetteren" />
-</p> --!
+</p> -->
 
 
 ###
