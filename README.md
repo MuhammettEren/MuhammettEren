@@ -66,6 +66,8 @@
 
 ###
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetteren&theme=dark" alt="muhammetteren" /></p>
+
 
 <h3 align="left">📱   My Apps :</h3>
 
