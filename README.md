@@ -63,12 +63,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=muhammetteren" alt="muhammetteren" />
     </a> 
-  </p>
-  
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetteren&theme=dark" alt="muhammetteren" />
-  </p>
-  
+  </p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammettEren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="148" alt="languages graph" />
 </div>
 
